@@ -1,4 +1,4 @@
-# OWS Online Weaver Sites
+# OWS Operative Web System
 # Software para el Desarrollo de Aplicaciones Web
 OWS Online Weaver Sites es una potente herramienta diseñada para facilitar el desarrollo de aplicaciones web directamente desde tu navegador web. Esta plataforma te brinda la flexibilidad de editar el contenido de cualquier sitio web de manera sencilla, además de permitir la conexión con bases de datos según las bibliotecas de PHP que tengas instaladas.
 
